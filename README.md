@@ -1,7 +1,7 @@
-Calculator App
+**Calculator App**
 Welcome to the Calculator App! This simple yet powerful calculator provides basic arithmetic operations along with additional features to enhance your calculating experience.
 
-Features
+**Features**
 Basic Arithmetic Operations: Perform addition, subtraction, multiplication, and division with ease.
 Memory Function: Store and recall numbers using memory functions like "Memory Recall" and "Memory Clear".
 Scientific Functions: Access advanced mathematical functions such as square root, exponentiation, trigonometric functions, and more.
@@ -26,10 +26,10 @@ Bootstrap: Front-end framework for responsive design.
 Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-License
+**License**
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgements
+**Acknowledgements**
 Thanks to Bootstrap for providing the responsive design framework.
 Inspiration from other calculator apps and developers in the community.
 Contact
