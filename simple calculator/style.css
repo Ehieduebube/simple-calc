@@ -1,0 +1,109 @@
+body{
+    background-image: url(white_wolf.jpg);
+    font-family: arial;
+}
+
+#container{
+    width: 1000px;
+    height:  600px;
+    margin: 20px auto;
+    border-radius: 7px;
+}
+
+#calculator{
+    width: 320px;
+    height: 520px;
+    background-color: #f7f8f9;
+    margin: 20px auto;
+    position: relative;
+    top: 40px;
+    border-radius: 7px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.60),0 4px 8px 0 rgba(0,0,0,0.80);
+}
+
+#result{
+    height: 120px;
+}
+
+#keyboard{
+    height: 400px;
+}
+
+#history{
+    height: 20px;
+    text-align: right;
+    margin: 0 20px;
+    padding-top: 20px;
+    font-size: 15px;
+    color: #919191;
+}
+
+#output{
+    text-align: right;
+    height: 60px;
+    margin: 10 20px;
+    padding-top: 20px;
+    font-size: 30px;
+    color: #303030;
+}
+
+.operator, .number, .empty{
+    width: 50px;
+    height: 50px;
+    margin: 15px;
+    float: left;
+    border-radius: 50px;
+    border-width: 0;
+}
+
+.number, .empty{
+    background-color: #f7f8f9;
+}
+
+.operator, .number{
+    cursor: pointer;
+}
+
+.operator:active, .number:active{
+    font-size: 12px;
+}
+
+button:nth-child(4){
+    background-color: red;
+
+}
+
+button:nth-child(8){
+    background-color: blue;
+    color: white;
+}
+
+button:nth-child(12){
+    background-color: pink;
+
+}
+
+button:nth-child(16){
+    background-color:green;
+    color: white;
+}
+
+button:nth-child(20){
+    background-color: purple;
+    color: white;
+}
+
+@media (max-width: 430px){
+    #container { 
+         width: 1px;
+         padding-right: 300px
+    }
+
+}
+
+@media (max-width: 884px){
+    #container{
+        width: 1px;
+        padding-right: 300px
+    }
+}
