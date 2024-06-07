@@ -10,8 +10,8 @@ Responsive Design: Use the calculator on any device - desktop, tablet, or mobile
 Getting Started
 To get started with the Calculator App, follow these steps:
 
-Clone the Repository: git clone https://github.com/ehieduebube/calculator-app.git
-Navigate to the Project Directory: cd calculator-app
+Clone the Repository: git clone https://github.com/ehieduebube/Simple-Calculator
+Navigate to the Project Directory: cd simple calaculator
 Open the App: Open index.html in your web browser or host it on a web server.
 Usage
 Enter numbers and perform operations using the calculator's buttons.
@@ -26,8 +26,6 @@ Bootstrap: Front-end framework for responsive design.
 Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-**License**
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 **Acknowledgements**
 Thanks to Bootstrap for providing the responsive design framework.
