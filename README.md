@@ -31,4 +31,4 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 Thanks to Bootstrap for providing the responsive design framework.
 Inspiration from other calculator apps and developers in the community.
 Contact
-Have questions or feedback? Feel free to contact me at your-ehieduebue@gmail.com.
+Have questions or feedback? Feel free to contact me at ehieduebube@gmail.com.
