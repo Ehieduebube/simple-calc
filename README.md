@@ -10,7 +10,7 @@ Responsive Design: Use the calculator on any device - desktop, tablet, or mobile
 Getting Started
 To get started with the Calculator App, follow these steps:
 
-Clone the Repository: git clone https://github.com/ehieduebube/Simple-Calculator
+Clone the Repository: git clone https://github.com/ehieduebube/simple-calc
 Navigate to the Project Directory: cd simple calaculator
 Open the App: Open index.html in your web browser or host it on a web server.
 Usage
